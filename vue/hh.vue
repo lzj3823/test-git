@@ -1,7 +1,7 @@
  <template>
 
    <div>
-       choujidan
+      duanwu 
    </div>
 
 </template>
