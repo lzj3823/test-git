@@ -1,7 +1,7 @@
  <template>
 
    <div>
-       choujidan
+      周六
    </div>
 
 </template>
