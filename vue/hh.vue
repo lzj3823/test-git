@@ -1,7 +1,7 @@
  <template>
 
    <div>
-      duanwu 
+      周六
    </div>
 
 </template>
