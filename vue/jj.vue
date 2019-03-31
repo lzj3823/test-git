@@ -1,5 +1,5 @@
 <template>
     <div>
-        端午加油哦
+    YYYyuuuu
     </div>
 </template>
