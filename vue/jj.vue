@@ -1,5 +1,5 @@
 <template>
     <div>
-        abc
+       星期一
     </div>
 </template>
