@@ -1,5 +1,3 @@
 <template>
-    <div>
-       星期一
-    </div>
+  <div>星期一uuu</div>
 </template>
